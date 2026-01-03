@@ -1,0 +1,1 @@
+CH đúng hay sai tương đượng lát cắt dedekind có cắt tại $\pi$ hay không.
